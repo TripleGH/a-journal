@@ -11,3 +11,8 @@ How it is laid out:
 - `story` holds the tall frames for Instagram stories (1080 x 1920).
 
 The words on every slide are Aletha's own.
+
+Also here:
+
+- `tools/render_slides.py` is the slide maker. Run it as `python3 tools/render_slides.py slides.json out`. It needs Python Playwright with Chromium. The fonts it uses are in `tools/fonts`.
+- A `posted.json` file inside a date folder means that post has already gone out.
