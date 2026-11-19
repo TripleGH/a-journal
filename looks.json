@@ -28,6 +28,35 @@
      "mood": "teal_dawn"
     }
    ]
+  },
+  {
+   "seed": 20261119,
+   "looks": [
+    {
+     "family": "aurora",
+     "mood": "deep_night"
+    },
+    {
+     "family": "stars",
+     "mood": "moonlit"
+    },
+    {
+     "family": "cloudsea",
+     "mood": "violet_dusk"
+    },
+    {
+     "family": "pines",
+     "mood": "amber_haze"
+    },
+    {
+     "family": "field",
+     "mood": "gold_sunrise"
+    },
+    {
+     "family": "bokeh",
+     "mood": "silver_blue"
+    }
+   ]
   }
  ]
 }
