@@ -1,3 +1,33 @@
 {
- "sets": []
+ "sets": [
+  {
+   "seed": 20261118,
+   "looks": [
+    {
+     "family": "dunes",
+     "mood": "violet_dusk"
+    },
+    {
+     "family": "bokeh",
+     "mood": "candle_gold"
+    },
+    {
+     "family": "lake",
+     "mood": "rose_dawn"
+    },
+    {
+     "family": "ridges",
+     "mood": "magenta_twilight"
+    },
+    {
+     "family": "cloudsea",
+     "mood": "fire_sunset"
+    },
+    {
+     "family": "pines",
+     "mood": "teal_dawn"
+    }
+   ]
+  }
+ ]
 }
