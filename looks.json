@@ -57,6 +57,39 @@
      "mood": "silver_blue"
     }
    ]
+  },
+  {
+   "seed": 20261120,
+   "looks": [
+    {
+     "family": "ridges",
+     "mood": "blue_hour"
+    },
+    {
+     "family": "meadow",
+     "mood": "mint_morning"
+    },
+    {
+     "family": "lake",
+     "mood": "gold_sunrise"
+    },
+    {
+     "family": "pines",
+     "mood": "storm_light"
+    },
+    {
+     "family": "rays",
+     "mood": "violet_dusk"
+    },
+    {
+     "family": "sea",
+     "mood": "amber_haze"
+    },
+    {
+     "family": "dunes",
+     "mood": "moonlit"
+    }
+   ]
   }
  ]
 }
