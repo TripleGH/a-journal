@@ -90,6 +90,39 @@
      "mood": "moonlit"
     }
    ]
+  },
+  {
+   "seed": 20261123,
+   "looks": [
+    {
+     "family": "cloudsea",
+     "mood": "gold_sunrise"
+    },
+    {
+     "family": "aurora",
+     "mood": "deep_night"
+    },
+    {
+     "family": "bokeh",
+     "mood": "teal_lights"
+    },
+    {
+     "family": "field",
+     "mood": "magenta_twilight"
+    },
+    {
+     "family": "lake",
+     "mood": "rose_dawn"
+    },
+    {
+     "family": "stars",
+     "mood": "moonlit"
+    },
+    {
+     "family": "ridges",
+     "mood": "autumn_ember"
+    }
+   ]
   }
  ]
 }
