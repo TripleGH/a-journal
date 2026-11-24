@@ -123,6 +123,39 @@
      "mood": "autumn_ember"
     }
    ]
+  },
+  {
+   "seed": 20261124,
+   "looks": [
+    {
+     "family": "sea",
+     "mood": "blue_hour"
+    },
+    {
+     "family": "rays",
+     "mood": "fire_sunset"
+    },
+    {
+     "family": "pines",
+     "mood": "teal_dawn"
+    },
+    {
+     "family": "lake",
+     "mood": "rose_dawn"
+    },
+    {
+     "family": "bokeh",
+     "mood": "rose_lights"
+    },
+    {
+     "family": "field",
+     "mood": "amber_haze"
+    },
+    {
+     "family": "tree",
+     "mood": "magenta_twilight"
+    }
+   ]
   }
  ]
 }
