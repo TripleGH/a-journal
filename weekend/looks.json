@@ -1,0 +1,352 @@
+{
+ "sets": [
+  {
+   "seed": 20261128,
+   "looks": [
+    {
+     "family": "trellis",
+     "mood": "sage"
+    },
+    {
+     "family": "arch",
+     "mood": "ivory"
+    },
+    {
+     "family": "frame",
+     "mood": "lilac"
+    },
+    {
+     "family": "branch",
+     "mood": "peach"
+    },
+    {
+     "family": "hydrangea",
+     "mood": "porcelain"
+    },
+    {
+     "family": "dots",
+     "mood": "blush"
+    },
+    {
+     "family": "ditsy",
+     "mood": "butter"
+    },
+    {
+     "family": "border",
+     "mood": "sky"
+    },
+    {
+     "family": "corners",
+     "mood": "rosewater"
+    }
+   ]
+  },
+  {
+   "seed": 20261129,
+   "looks": [
+    {
+     "family": "garland",
+     "mood": "ivory"
+    },
+    {
+     "family": "stripe",
+     "mood": "sky"
+    },
+    {
+     "family": "corners",
+     "mood": "dove"
+    },
+    {
+     "family": "dots",
+     "mood": "mint"
+    },
+    {
+     "family": "arch",
+     "mood": "peach"
+    },
+    {
+     "family": "border",
+     "mood": "butter"
+    },
+    {
+     "family": "trellis",
+     "mood": "blush"
+    },
+    {
+     "family": "frame",
+     "mood": "sage"
+    },
+    {
+     "family": "ditsy",
+     "mood": "rosewater"
+    }
+   ]
+  },
+  {
+   "seed": 20261205,
+   "looks": [
+    {
+     "family": "ditsy",
+     "mood": "dove"
+    },
+    {
+     "family": "hydrangea",
+     "mood": "rosewater"
+    },
+    {
+     "family": "branch",
+     "mood": "ivory"
+    },
+    {
+     "family": "corners",
+     "mood": "porcelain"
+    },
+    {
+     "family": "stripe",
+     "mood": "butter"
+    },
+    {
+     "family": "frame",
+     "mood": "mint"
+    },
+    {
+     "family": "border",
+     "mood": "peach"
+    },
+    {
+     "family": "arch",
+     "mood": "lilac"
+    },
+    {
+     "family": "trellis",
+     "mood": "sky"
+    }
+   ]
+  },
+  {
+   "seed": 20261206,
+   "looks": [
+    {
+     "family": "dots",
+     "mood": "blush"
+    },
+    {
+     "family": "garland",
+     "mood": "sage"
+    },
+    {
+     "family": "trellis",
+     "mood": "dove"
+    },
+    {
+     "family": "frame",
+     "mood": "sky"
+    },
+    {
+     "family": "ditsy",
+     "mood": "butter"
+    },
+    {
+     "family": "border",
+     "mood": "mint"
+    },
+    {
+     "family": "stripe",
+     "mood": "lilac"
+    },
+    {
+     "family": "hydrangea",
+     "mood": "ivory"
+    },
+    {
+     "family": "branch",
+     "mood": "porcelain"
+    },
+    {
+     "family": "corners",
+     "mood": "peach"
+    }
+   ]
+  },
+  {
+   "seed": 20261212,
+   "looks": [
+    {
+     "family": "arch",
+     "mood": "sage"
+    },
+    {
+     "family": "trellis",
+     "mood": "porcelain"
+    },
+    {
+     "family": "corners",
+     "mood": "rosewater"
+    },
+    {
+     "family": "branch",
+     "mood": "lilac"
+    },
+    {
+     "family": "ditsy",
+     "mood": "peach"
+    },
+    {
+     "family": "garland",
+     "mood": "ivory"
+    },
+    {
+     "family": "border",
+     "mood": "blush"
+    },
+    {
+     "family": "stripe",
+     "mood": "sky"
+    },
+    {
+     "family": "frame",
+     "mood": "dove"
+    },
+    {
+     "family": "dots",
+     "mood": "mint"
+    }
+   ]
+  },
+  {
+   "seed": 20261220,
+   "looks": [
+    {
+     "family": "branch",
+     "mood": "ivory"
+    },
+    {
+     "family": "arch",
+     "mood": "blush"
+    },
+    {
+     "family": "garland",
+     "mood": "lilac"
+    },
+    {
+     "family": "stripe",
+     "mood": "dove"
+    },
+    {
+     "family": "trellis",
+     "mood": "peach"
+    },
+    {
+     "family": "border",
+     "mood": "butter"
+    },
+    {
+     "family": "frame",
+     "mood": "mint"
+    },
+    {
+     "family": "hydrangea",
+     "mood": "sage"
+    },
+    {
+     "family": "dots",
+     "mood": "porcelain"
+    },
+    {
+     "family": "corners",
+     "mood": "rosewater"
+    }
+   ]
+  },
+  {
+   "seed": 20261213,
+   "looks": [
+    {
+     "family": "hydrangea",
+     "mood": "mint"
+    },
+    {
+     "family": "dots",
+     "mood": "dove"
+    },
+    {
+     "family": "trellis",
+     "mood": "rosewater"
+    },
+    {
+     "family": "frame",
+     "mood": "ivory"
+    },
+    {
+     "family": "branch",
+     "mood": "sage"
+    },
+    {
+     "family": "arch",
+     "mood": "lilac"
+    },
+    {
+     "family": "garland",
+     "mood": "peach"
+    },
+    {
+     "family": "ditsy",
+     "mood": "porcelain"
+    },
+    {
+     "family": "corners",
+     "mood": "sky"
+    },
+    {
+     "family": "border",
+     "mood": "blush"
+    }
+   ]
+  },
+  {
+   "seed": 20261219,
+   "looks": [
+    {
+     "family": "stripe",
+     "mood": "porcelain"
+    },
+    {
+     "family": "border",
+     "mood": "peach"
+    },
+    {
+     "family": "corners",
+     "mood": "mint"
+    },
+    {
+     "family": "frame",
+     "mood": "blush"
+    },
+    {
+     "family": "dots",
+     "mood": "ivory"
+    },
+    {
+     "family": "trellis",
+     "mood": "sage"
+    },
+    {
+     "family": "ditsy",
+     "mood": "rosewater"
+    },
+    {
+     "family": "hydrangea",
+     "mood": "butter"
+    },
+    {
+     "family": "garland",
+     "mood": "sky"
+    },
+    {
+     "family": "branch",
+     "mood": "lilac"
+    }
+   ]
+  }
+ ]
+}
