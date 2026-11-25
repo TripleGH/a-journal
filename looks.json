@@ -156,6 +156,39 @@
      "mood": "magenta_twilight"
     }
    ]
+  },
+  {
+   "seed": 20261125,
+   "looks": [
+    {
+     "family": "meadow",
+     "mood": "day_blue"
+    },
+    {
+     "family": "field",
+     "mood": "rose_dawn"
+    },
+    {
+     "family": "aurora",
+     "mood": "deep_night"
+    },
+    {
+     "family": "sea",
+     "mood": "gold_sunrise"
+    },
+    {
+     "family": "ridges",
+     "mood": "violet_dusk"
+    },
+    {
+     "family": "rays",
+     "mood": "storm_light"
+    },
+    {
+     "family": "lake",
+     "mood": "fire_sunset"
+    }
+   ]
   }
  ]
 }
